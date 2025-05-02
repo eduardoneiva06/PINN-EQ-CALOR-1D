@@ -6,12 +6,6 @@ Este repositório contém um guia prático para a implementação de **Redes Neu
 
 Apresentar, de forma didática e acessível, os fundamentos teóricos e a aplicação prática das PINNs por meio de exemplos implementados em Python. Ideal para estudantes e pesquisadores que desejam aplicar redes neurais em problemas governados por equações diferenciais.
 
-## 📁 Estrutura do Repositório
-
-📦PINN-EQ-CALOR-1D
-┣ 📄 README.md
-┣ 📄 UM_GUIA_PRÁTICO_PARA_IMPLEMENTAR_PINNS.ipynb
-
 ## ⚙️ Tecnologias e Bibliotecas
 
 - Python 3
