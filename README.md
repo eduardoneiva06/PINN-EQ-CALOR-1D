@@ -8,6 +8,10 @@ Apresentar, de forma didática e acessível, os fundamentos teóricos e a aplica
 
 ## 📁 Estrutura do Repositório
 
+📦PINN-EQ-CALOR-1D
+┣ 📄 README.md
+┣ 📄 UM_GUIA_PRÁTICO_PARA_IMPLEMENTAR_PINNS.ipynb
+
 ## ⚙️ Tecnologias e Bibliotecas
 
 - Python 3
