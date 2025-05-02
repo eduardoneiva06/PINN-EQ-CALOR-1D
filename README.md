@@ -18,4 +18,4 @@ Apresentar, de forma didática e acessível, os fundamentos teóricos e a aplica
 
 Você pode executar o notebook diretamente no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/github/eduardoneiva06/PINN-EQ-CALOR-1D/blob/main/UM_GUIA_PR%C3%81TICO_PARA_IMPLEMENTAR_PINNs.ipynb)]
+[Abrir no Colab](https://colab.research.google.com/github/eduardoneiva06/PINN-EQ-CALOR-1D/blob/main/UM_GUIA_PR%C3%81TICO_PARA_IMPLEMENTAR_PINNs.ipynb)
